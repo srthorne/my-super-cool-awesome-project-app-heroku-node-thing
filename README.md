@@ -4,4 +4,6 @@
 # Click Heroku link
 # Click Open App
 # Open web browser
-# Go to localhost
+# Download code
+# unzip
+# Open in vsCode project
